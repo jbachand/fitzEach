@@ -1,6 +1,6 @@
 {
   "name": "fitzeach",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Its a for loop without the work",
   "main": "fitzEach.js",
   "scripts": {
@@ -15,7 +15,10 @@
     "loop",
     "fitz"
   ],
-  "author": "Joe Fitz",
+  "author": "Joe Fitz <joe@hqo.co> (http://hqo.co)",
+  "contributors": [
+      "Jeff Bachand <jeff@hqo.co> (http://hqo.co/)"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jbachand/fitzEach/issues"
