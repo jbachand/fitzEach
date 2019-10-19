@@ -1,0 +1,24 @@
+{
+  "name": "fitzeach",
+  "version": "1.0.0",
+  "description": "Its a for loop without the work",
+  "main": "fitzEach.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbachand/fitzEach.git"
+  },
+  "keywords": [
+    "for",
+    "loop",
+    "fitz"
+  ],
+  "author": "Joe Fitz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jbachand/fitzEach/issues"
+  },
+  "homepage": "https://github.com/jbachand/fitzEach#readme"
+}
