@@ -4,7 +4,7 @@
   "description": "Its a for loop without the work",
   "main": "fitzEach.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -17,11 +17,18 @@
   ],
   "author": "Joe Fitz <joe@hqo.co> (http://hqo.co)",
   "contributors": [
-      "Jeff Bachand <jeff@hqo.co> (http://hqo.co/)"
+    "Jeff Bachand <jeff@hqo.co> (http://hqo.co/)",
+    "John Ahigian <john.ahigian@hqo.co>"
   ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jbachand/fitzEach/issues"
   },
-  "homepage": "https://github.com/jbachand/fitzEach#readme"
+  "homepage": "https://github.com/jbachand/fitzEach#readme",
+  "devDependencies": {
+    "@babel/core": "7.10.3",
+    "@babel/preset-env": "7.10.3",
+    "babel-jest": "26.0.1",
+    "jest": "26.0.1"
+  }
 }
