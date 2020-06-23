@@ -8,3 +8,8 @@ Number(6).each(()=>{
   console.log('fitz');
 });
 ```
+
+# tests
+```
+yarn test
+```
